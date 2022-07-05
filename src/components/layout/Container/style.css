@@ -1,0 +1,10 @@
+.container{
+  display: flex;
+  min-height: 600px;
+
+}
+
+
+.model{
+    text-align: center;
+}

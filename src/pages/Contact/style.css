@@ -1,0 +1,19 @@
+ .contact{
+    display: flex;
+    margin: 0 auto;
+    padding: 2rem;
+
+ }
+
+ .btn{
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+   
+ }
+
+
+ .contact div{
+    max-width: 600px;
+    display: block;
+ }
